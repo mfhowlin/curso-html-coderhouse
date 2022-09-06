@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+
+    nav ul{
+        color: #67230e;
+        font-family: $fontfamily;
+        flex-direction: row;
+        margin: 10px;
+        padding: 10px;
+        text-align: right;
+        text-decoration: none;
+        display: inline-block;
+
+    }
+}
+
+.titulo {
+    
